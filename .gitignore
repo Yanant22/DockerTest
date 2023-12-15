@@ -1,0 +1,19 @@
+# .gitignore
+/bin
+/log/*.log
+/tmp
+/node_modules
+/yarn-error.log
+/public/assets
+/public/packs
+/public/packs-test
+/public/system
+/public/uploads
+/storage/*
+/vendor/bundle/
+/config/master.key
+.byebug_history
+.env
+.env.*
+.bundle
+.DS_Store
